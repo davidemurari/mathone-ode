@@ -1,0 +1,1 @@
+Il video di questa lezione uscirà domenica 20 Novembre.
