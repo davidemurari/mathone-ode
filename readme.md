@@ -14,7 +14,7 @@ Idealmente ogni settimana usciranno 2 di queste lezioni sul canale Youtube. Cerc
 
 ### Integrazione "classica"
 - [Teoria di base sulle equazioni differenziali ordinarie](Lezione 1.md)
-- Teoria di base interpolazione polinomiale
+- [Teoria di base interpolazione polinomiale](Lezione 2.md)
 - Basi di approssimazione numerica di integrali (formule di quadratura)
 - Primi esempi di metodi numerici ad un passo
   - Esempi ed intuizione
