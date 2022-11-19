@@ -6,7 +6,7 @@ L'analisi numerica delle equazioni differenziali è un'area di ricerca ancora mo
 
 ## Organizzazione del materiale
 
-Ho deciso di appoggiarmi a Github per caricare notebook, organizzare i video e rendere disponbile ogni materiale supplementare che credo possa essere utile. Troverai una sottocartella per ogni lezione. In queste ci sarà un file di testo con il link al video ed il link a qualche altra risorsa che credo possa essere interessante in merito a quanto coperto nel video. Inoltre, quando possiible, nella stessa cartella è salvato anche il notebook associato alla lezione. Ogni notebook può essere aperto con "Google Colaboratory", permettendoti quindi di potervi interagire in completa libertà ed autonomia.
+Ho deciso di appoggiarmi a Github per caricare notebook, organizzare i video e rendere disponbile ogni materiale supplementare che credo possa essere utile. Troverai una sottocartella per ogni lezione. In queste ci sarà un file di testo con il link al video ed il link a qualche altra risorsa che credo possa essere interessante in merito a quanto coperto nel video. Inoltre, quando possible, nella stessa cartella è salvato anche il notebook associato alla lezione.
 
 Per chi non è pratico con Github, ho anche creato un sito dove potrai lo stesso materiale, organizzato spero in una maniera più intuitiva. Il sito è questo : https://davidemurari.github.io/mathone-ode/
 
