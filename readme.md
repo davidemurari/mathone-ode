@@ -15,10 +15,9 @@ Idealmente ogni settimana usciranno 2 di queste lezioni sul canale Youtube. Cerc
 ### Integrazione "classica"
 - [Teoria di base sulle equazioni differenziali ordinarie](Lezione 1.md)
 - [Teoria di base interpolazione polinomiale](Lezione 2.md)
-- Basi di approssimazione numerica di integrali (formule di quadratura)
-- Primi esempi di metodi numerici ad un passo
-  - Esempi ed intuizione
-  - Introduzione di alcuni aspetti fondamentali dei metodi numerici per ODE
+- [Basi di approssimazione numerica di integrali (formule di quadratura)](Lezione 3.md)
+- [Primi esempi di metodi numerici ad un passo: Esempi ed intuizione](Lezione 4.md)
+- Introduzione di alcuni aspetti fondamentali dei metodi numerici per ODE
 - Metodi di collocazione
   - Derivazione 
 - Metodi Runge-Kutta
