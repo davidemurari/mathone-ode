@@ -4,6 +4,8 @@
 
 L'analisi numerica delle equazioni differenziali è un'area di ricerca ancora molto attiva e davvero ricca di metodi e risultati. Non è quindi chiaramente il mio obiettivo coprire ogni tecnica nota o essere super rigoroso nelle derivazioni. Ciò che voglio fare con questo corso è fornire le basi per poi poter approfondire questo mondo, cercando di motivare in maniera chiara ed intuitiva i metodi con i quali lavoreremo. Inoltre, voglio anche accompagnare le lezioni con dei notebook Python con cui potrete lavorare e giocare liberamente. Trovo che questo approccio all'analisi numerica basato sulla sperimentazione supportata da alcune nozioni teoriche sia molto efficace e per questo ho deciso di seguire questa strategia in questo corso.
 
+Se vuoi supportare il corso ed il canale lo puoi fare qui 👉👉 https://mathone.it/supporta
+
 ## Organizzazione del materiale
 
 Ho deciso di appoggiarmi a Github per caricare notebook, organizzare i video e rendere disponbile ogni materiale supplementare che credo possa essere utile. Troverai una sottocartella per ogni lezione. In queste ci sarà un file di testo con il link al video ed il link a qualche altra risorsa che credo possa essere interessante in merito a quanto coperto nel video. Inoltre, quando possible, nella stessa cartella è salvato anche il notebook associato alla lezione.
