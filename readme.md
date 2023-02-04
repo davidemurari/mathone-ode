@@ -27,8 +27,8 @@ Idealmente ogni settimana usciranno 2 di queste lezioni sul canale Youtube. Cerc
 - Primi esempi di metodi numerici ad un passo
   - Esempi ed intuizione (Lezione 4)
   - Introduzione di alcuni aspetti fondamentali dei metodi numerici per ODE (Lezione 5)
-- Metodi di collocazione
-  - Derivazione 
+- Metodi di collocazione 
+  - Derivazione (Lezione 6)
 - Metodi Runge-Kutta
   - Basi e derivazione
   - Risoluzione di un metodo implicito
