@@ -17,9 +17,9 @@ Idealmente ogni settimana usciranno 2 di queste lezioni sul canale Youtube. Cerc
 - [Teoria di base interpolazione polinomiale](Lezione 2.md)
 - [Basi di approssimazione numerica di integrali (formule di quadratura)](Lezione 3.md)
 - [Primi esempi di metodi numerici ad un passo: Esempi ed intuizione](Lezione 4.md)
-- Introduzione di alcuni aspetti fondamentali dei metodi numerici per ODE
+- [Introduzione di alcuni aspetti fondamentali dei metodi numerici per ODE](Lezione 5.md)
 - Metodi di collocazione
-  - Derivazione 
+  - [Derivazione metodi di Collocazione](Lezione 6.md) 
 - Metodi Runge-Kutta
   - Basi e derivazione
   - Risoluzione di un metodo implicito
